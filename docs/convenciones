@@ -4,7 +4,7 @@
 * Direct, simple writing style
 * Avoid long and complex words and grammar. Prefer simplicity so that text is accessible to non-native speakers
 * Use acronyms only if they are commonly understood. Ideally, spell out the first use of an acronym followed by the acronym itself in parentheses (eg. `CLI (Command Line Interface)`).
-* Use “and” instead of "&" or ampersan.
+* Use “and” instead of "&".
 * Direct, simple writing style.
 * Avoid long and complex words and grammar. Prefer simplicity so that text is accessible to non-native speakers.
 * Use acronyms only if they are commonly understood. Ideally, spell out the first use of an acronym followed by the acronym itself in parentheses (eg. `CLI (Command Line Interface)`).
@@ -23,7 +23,7 @@
 * Use sentence case for all headings.
 * Ensure that there is only one whitespace character between the heading symbols and the heading text.
 * Write descriptive headings (eg.`How to configure your Kubernetes cluster in 5 steps` instead `Configuring a cluster`).
-* Use a verb in the titles for steps (if your blog post contains instructions) instead of How to (eg. `Editing a file` instead `How to edit a file`).·
+* Use a verb in the titles for steps (if your blog post contains instructions) instead of How to (eg. `Editing a file` instead `How to edit a file`).
 * Don't end headings with a period.
 * Use sentence-style capitalization by capitalizing only the first word in a heading.
 
